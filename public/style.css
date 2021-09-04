@@ -1,0 +1,28 @@
+body {
+    /* display: block; */
+    font-family: cursive;
+        font-style: oblique;
+        margin: 500px auto;
+        
+        /* background-image: public("DSC01925-Edit.jpg"); */
+        /* border: 1px solid #df4019;
+        background: #d83417; */
+        color: rgb(50, 50, 10);
+        font-size: 16px;
+        line-height: 5px;
+        padding: 0px 0npx;
+        border-radius: 30px;
+        transition: all 200ms ease;
+        /* box-shadow: rgba(31, 32, 73, 0.08) 0px 8px 8px 0; */
+        cursor: pointer;
+        text-align: justify;
+        text-indent: 90px;
+        background-image: url('DSC01925-Edit.jpg');
+        background-size: cover;
+     
+    
+ 
+
+    
+    
+}
